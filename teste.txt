@@ -1,6 +1,11 @@
-teste
 
-abcd
 
-dfgh
-
+public class teste{
+	
+	private String teste;
+	
+	public void teste(){
+		
+	}
+	
+}
