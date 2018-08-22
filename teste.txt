@@ -9,7 +9,7 @@ public class teste{
 	}
 
 	public void teste2(){
-
+		return teste;
 	}
 	
 }
