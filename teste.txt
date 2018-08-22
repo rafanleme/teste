@@ -7,9 +7,14 @@ public class teste{
 	public void teste(){
 		return teste;
 	}
+	
+	private bal(){
+
+	}	
 
 	public void teste2(){
 
 	}
+	
 	
 }
