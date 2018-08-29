@@ -1,8 +1,10 @@
 //comentario
 
-//isto é uma mudança na branch
+//isto Ã© uma mudanÃ§a na branch
 
-//isto é uma mudança no master
+//isto Ã© uma mudanÃ§a no master
+
+//mais uma mudanÃ§a na master
 
 public class teste{
 	
