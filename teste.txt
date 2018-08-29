@@ -2,9 +2,15 @@
 
 //isto Ã© uma mudanÃ§a na branch
 
+<<<<<<< HEAD
 //isto Ã© uma mudanÃ§a no master
 
 //mais uma mudanÃ§a na master
+=======
+//isto é uma mudança no master\
+
+//mudança na branch
+>>>>>>> testeb
 
 public class teste{
 	
