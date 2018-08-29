@@ -2,6 +2,8 @@
 
 //isto é uma mudança na branch
 
+//isto é uma mudança no master
+
 public class teste{
 	
 	private String teste;
